@@ -1,0 +1,254 @@
+[
+  {
+    "baseColor": "True",
+    "rgb": "rgb(187, 149, 220)",
+    "hex": "#bb95dc",
+    "lightness": "n/a"
+  },
+  {
+    "baseColor": "#bb95dc",
+    "rgb": "rgb(250, 229, 255)",
+    "hex": "#fae5ff",
+    "lightness": "95%"
+  },
+  {
+    "baseColor": "#bb95dc",
+    "rgb": "rgb(209, 171, 243)",
+    "hex": "#d1abf3",
+    "lightness": "80%"
+  },
+  {
+    "baseColor": "#bb95dc",
+    "rgb": "rgb(146, 110, 178)",
+    "hex": "#926eb2",
+    "lightness": "60%"
+  },
+  {
+    "baseColor": "#bb95dc",
+    "rgb": "rgb(88, 53, 116)",
+    "hex": "#583574",
+    "lightness": "40%"
+  },
+  {
+    "baseColor": "#bb95dc",
+    "rgb": "rgb(36, 0, 58)",
+    "hex": "#24003a",
+    "lightness": "20%"
+  },
+  {
+    "baseColor": "#bb95dc",
+    "rgb": "rgb(9, 0, 21)",
+    "hex": "#090015",
+    "lightness": "10%"
+  },
+  {
+    "baseColor": "True",
+    "rgb": "rgb(226, 138, 154)",
+    "hex": "#e28a9a",
+    "lightness": "n/a"
+  },
+  {
+    "baseColor": "#e28a9a",
+    "rgb": "rgb(255, 226, 232)",
+    "hex": "#ffe2e8",
+    "lightness": "95%"
+  },
+  {
+    "baseColor": "#e28a9a",
+    "rgb": "rgb(250, 160, 176)",
+    "hex": "#faa0b0",
+    "lightness": "80%"
+  },
+  {
+    "baseColor": "#e28a9a",
+    "rgb": "rgb(182, 99, 115)",
+    "hex": "#b66373",
+    "lightness": "60%"
+  },
+  {
+    "baseColor": "#e28a9a",
+    "rgb": "rgb(118, 41, 60)",
+    "hex": "#76293c",
+    "lightness": "40%"
+  },
+  {
+    "baseColor": "#e28a9a",
+    "rgb": "rgb(54, 0, 13)",
+    "hex": "#36000d",
+    "lightness": "20%"
+  },
+  {
+    "baseColor": "#e28a9a",
+    "rgb": "rgb(17, 0, 1)",
+    "hex": "#110001",
+    "lightness": "10%"
+  },
+  {
+    "baseColor": "True",
+    "rgb": "rgb(212, 155, 89)",
+    "hex": "#d49b59",
+    "lightness": "n/a"
+  },
+  {
+    "baseColor": "#d49b59",
+    "rgb": "rgb(255, 231, 190)",
+    "hex": "#ffe7be",
+    "lightness": "95%"
+  },
+  {
+    "baseColor": "#d49b59",
+    "rgb": "rgb(235, 177, 111)",
+    "hex": "#ebb16f",
+    "lightness": "80%"
+  },
+  {
+    "baseColor": "#d49b59",
+    "rgb": "rgb(170, 115, 47)",
+    "hex": "#aa732f",
+    "lightness": "60%"
+  },
+  {
+    "baseColor": "#d49b59",
+    "rgb": "rgb(108, 58, 0)",
+    "hex": "#6c3a00",
+    "lightness": "40%"
+  },
+  {
+    "baseColor": "#d49b59",
+    "rgb": "rgb(40, 14, 0)",
+    "hex": "#280e00",
+    "lightness": "20%"
+  },
+  {
+    "baseColor": "#d49b59",
+    "rgb": "rgb(11, 1, 0)",
+    "hex": "#0b0100",
+    "lightness": "10%"
+  },
+  {
+    "baseColor": "True",
+    "rgb": "rgb(147, 181, 106)",
+    "hex": "#93b56a",
+    "lightness": "n/a"
+  },
+  {
+    "baseColor": "#93b56a",
+    "rgb": "rgb(217, 253, 175)",
+    "hex": "#d9fdaf",
+    "lightness": "95%"
+  },
+  {
+    "baseColor": "#93b56a",
+    "rgb": "rgb(169, 203, 128)",
+    "hex": "#a9cb80",
+    "lightness": "80%"
+  },
+  {
+    "baseColor": "#93b56a",
+    "rgb": "rgb(108, 140, 67)",
+    "hex": "#6c8c43",
+    "lightness": "60%"
+  },
+  {
+    "baseColor": "#93b56a",
+    "rgb": "rgb(53, 82, 0)",
+    "hex": "#355200",
+    "lightness": "40%"
+  },
+  {
+    "baseColor": "#93b56a",
+    "rgb": "rgb(11, 28, 0)",
+    "hex": "#0b1c00",
+    "lightness": "20%"
+  },
+  {
+    "baseColor": "#93b56a",
+    "rgb": "rgb(1, 5, 0)",
+    "hex": "#010500",
+    "lightness": "10%"
+  },
+  {
+    "baseColor": "True",
+    "rgb": "rgb(66, 189, 181)",
+    "hex": "#42bdb5",
+    "lightness": "n/a"
+  },
+  {
+    "baseColor": "#42bdb5",
+    "rgb": "rgb(145, 255, 253)",
+    "hex": "#91fffd",
+    "lightness": "95%"
+  },
+  {
+    "baseColor": "#42bdb5",
+    "rgb": "rgb(93, 212, 204)",
+    "hex": "#5dd4cc",
+    "lightness": "80%"
+  },
+  {
+    "baseColor": "#42bdb5",
+    "rgb": "rgb(0, 148, 141)",
+    "hex": "#00948d",
+    "lightness": "60%"
+  },
+  {
+    "baseColor": "#42bdb5",
+    "rgb": "rgb(0, 86, 81)",
+    "hex": "#005651",
+    "lightness": "40%"
+  },
+  {
+    "baseColor": "#42bdb5",
+    "rgb": "rgb(0, 29, 27)",
+    "hex": "#001d1b",
+    "lightness": "20%"
+  },
+  {
+    "baseColor": "#42bdb5",
+    "rgb": "rgb(0, 6, 5)",
+    "hex": "#000605",
+    "lightness": "10%"
+  },
+  {
+    "baseColor": "True",
+    "rgb": "rgb(111, 173, 233)",
+    "hex": "#6fade9",
+    "lightness": "n/a"
+  },
+  {
+    "baseColor": "#6fade9",
+    "rgb": "rgb(215, 242, 255)",
+    "hex": "#d7f2ff",
+    "lightness": "95%"
+  },
+  {
+    "baseColor": "#6fade9",
+    "rgb": "rgb(133, 196, 255)",
+    "hex": "#85c4ff",
+    "lightness": "80%"
+  },
+  {
+    "baseColor": "#6fade9",
+    "rgb": "rgb(72, 133, 190)",
+    "hex": "#4885be",
+    "lightness": "60%"
+  },
+  {
+    "baseColor": "#6fade9",
+    "rgb": "rgb(1, 74, 127)",
+    "hex": "#014a7f",
+    "lightness": "40%"
+  },
+  {
+    "baseColor": "#6fade9",
+    "rgb": "rgb(0, 21, 60)",
+    "hex": "#00153c",
+    "lightness": "20%"
+  },
+  {
+    "baseColor": "#6fade9",
+    "rgb": "rgb(0, 1, 26)",
+    "hex": "#00011a",
+    "lightness": "10%"
+  }
+]

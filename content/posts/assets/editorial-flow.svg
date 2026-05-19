@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" fill="none">
+  <rect width="1200" height="520" fill="#090015"/>
+  <rect x="70" y="90" width="250" height="120" fill="#24003a" stroke="#d1abf3" stroke-width="2"/>
+  <rect x="475" y="90" width="250" height="120" fill="#110001" stroke="#e28a9a" stroke-width="2"/>
+  <rect x="880" y="90" width="250" height="120" fill="#00153c" stroke="#6fade9" stroke-width="2"/>
+  <rect x="475" y="310" width="250" height="120" fill="#001d1b" stroke="#42bdb5" stroke-width="2"/>
+  <path d="M320 150H455" stroke="#d49b59" stroke-width="4"/>
+  <path d="M725 150H860" stroke="#d49b59" stroke-width="4"/>
+  <path d="M600 210V290" stroke="#d49b59" stroke-width="4"/>
+  <circle cx="455" cy="150" r="7" fill="#d49b59"/>
+  <circle cx="860" cy="150" r="7" fill="#d49b59"/>
+  <circle cx="600" cy="290" r="7" fill="#d49b59"/>
+  <text x="100" y="138" fill="#fae5ff" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="600">Write</text>
+  <text x="100" y="177" fill="#d7f2ff" font-family="Inter, Arial, sans-serif" font-size="28">Markdown post</text>
+  <text x="505" y="138" fill="#fae5ff" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="600">Attach</text>
+  <text x="505" y="177" fill="#ffe7be" font-family="Inter, Arial, sans-serif" font-size="28">Metadata</text>
+  <text x="915" y="138" fill="#fae5ff" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="600">Render</text>
+  <text x="915" y="177" fill="#d7f2ff" font-family="Inter, Arial, sans-serif" font-size="28">Static output</text>
+  <text x="515" y="358" fill="#fae5ff" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="600">Enhance</text>
+  <text x="515" y="397" fill="#91fffd" font-family="Inter, Arial, sans-serif" font-size="28">Images + diagrams</text>
+</svg>

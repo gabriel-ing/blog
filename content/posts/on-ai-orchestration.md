@@ -1,0 +1,19 @@
+---
+title: Maybe AI agents are destined to be chatbots
+date: 2026-05-19
+tags:
+  - markdown
+description: Thoughts about building enterprise agents
+---
+
+Every AI agent demo is a chatbot. I always want to do something different — I want to create examples which don't involve humans talking directly to an LLM. I want to show value in integrating an AI agent into a unique role within a system, where it can be activated by an input that isn't a direct conversation. I want to show how an agent with tools can act autonomously to produce effective results. I want to show the value of building your own AI agents to fill gaps and bottlenecks in enterprise workflows. 
+
+For context, I work in developer relations, but in some senses my job is closer to that of a Sales Engineer or a instructional course designer. Recently, I have been working on designing workshops / learning materials / a webinar demo for a new AI Agent SDK we have. I've tried to define a lot of these demos, in different use cases and different ways, but I keep running up to the same problem: *this agent would be better as a deterministic workflow with a small LLM component.*
+
+I honestly struggle to explain how many times I have seen this problem. It has annoyed me today particularly as I have been building a demo based around an agent reading an email and autonomously acting upon it. 
+
+This morning I created tools to show how you can create an agent that can prepare, validate and submit an order using separate tools. In particular, trying to show how these tools can access the same temporary properties, as they are instance methods of the same class. This is a really cool feature of the SDK I am demoing (InterSystems AI Hub) and I think its super valuable to highlight. However, each attempt, Claude Haiku — because if you are creating a workflow with basic tasks you should use a cheap model — would skip the validate and submit tools, no matter what the instructions said. Haiku didn't think the other two tools were valuable, and to be honest, neither did I. Without any reasoning behind them I'm trying to convince a non-deterministic model to call deterministic functions in a specific order. Why not just create a single deterministic function? 
+
+I suspect this problem may be related to the fact I am trying to build *simple* use cases. Demo cases where I show each individual feature being built. These inherently have a small set of features because the tutorials/workshops tend to be quite small. The point of an agent having many tools is that it can reason and do many different things. If I try to frame the use case around a single explainable thing that it is doing, then this autonomous benefit is over. The degrees of freedom an agent are reduced down to watching the agent flail around trying to follow a workflow that could have been deterministic. 
+
+I do think this reflects a bigger problem though. AI spending is through the roof, and, thanks to some shady account reporting has ballooned into a monunmental economic bubble. Meanwhile, its hard to know what agents will actually do. Don't get me wrong, LLMs are enormously valuable tools for the end user. Claude Code has accelerated my work massively, be it the grunt work of creating bespoke demo projects, or the ability to troubleshoot and look up answers. But for this valuation to be accurate, AI needs to be more than a tool for users. It needs to provide use cases where it can act autonomously, and provide value beyond a user asking it for the answer, or generating code that may or may not work. I really struggle to come up with non-chatbot use cases where building a custom AI agent provides value over the equivalent deterministic workflow with a small LLM call component.  

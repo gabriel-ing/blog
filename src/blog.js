@@ -95,21 +95,13 @@ function renderHomePage() {
       <header class="hero-panel">
         <div class="hero-grid">
           <div>
-            <p class="eyebrow">Vanilla JS + Vite</p>
-            <h1>Markdown publishing with a cleaner, more editorial feel.</h1>
+          <h1>Gabriel Quazzaing's Blog</h1>
           </div>
           <div class="hero-notes">
             <p>
-              Frontmatter drives titles, dates, descriptions, and tags. Standard fenced code
-              blocks are highlighted, while <code>\`\`\`html,render</code> blocks execute inline.
+
             </p>
           </div>
-        </div>
-        <div class="hero-strip" aria-label="Site capabilities">
-          <span>Markdown posts</span>
-          <span>YAML frontmatter</span>
-          <span>Syntax colouring</span>
-          <span>Rendered HTML blocks</span>
         </div>
       </header>
 
@@ -129,23 +121,6 @@ function renderHomePage() {
           </div>
         </section>
 
-        <aside class="panel">
-          <p class="section-kicker">Authoring guide</p>
-          <h2>Post format</h2>
-          <pre class="authoring-snippet"><code>---
-title: Getting started with this blog
-date: 2026-05-19
-tags:
-  - markdown
-  - vite
-description: A short summary for the homepage.
----</code></pre>
-          <p class="section-copy">
-            Add any <code>.md</code> file under <code>content/posts</code> and it appears
-            automatically. The styling now draws from your palette’s purple, rose, gold, teal,
-            and blue tones instead of generic UI defaults.
-          </p>
-        </aside>
       </main>
     </div>
   `;
